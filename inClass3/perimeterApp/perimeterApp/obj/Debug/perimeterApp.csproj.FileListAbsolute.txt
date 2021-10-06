@@ -12,3 +12,10 @@ C:\Users\jennn\OneDrive\바탕 화면\inClass3\perimeterApp\perimeterApp\obj\Deb
 C:\Users\jennn\OneDrive\바탕 화면\inClass3\perimeterApp\perimeterApp\obj\Debug\perimeterApp.csproj.CoreCompileInputs.cache
 C:\Users\jennn\OneDrive\바탕 화면\inClass3\perimeterApp\perimeterApp\obj\Debug\perimeterApp.exe
 C:\Users\jennn\OneDrive\바탕 화면\inClass3\perimeterApp\perimeterApp\obj\Debug\perimeterApp.pdb
+C:\Users\Yusuf\Documents\GitHub\IC3HJKYH1P1\inClass3\perimeterApp\perimeterApp\bin\Debug\perimeterApp.exe.config
+C:\Users\Yusuf\Documents\GitHub\IC3HJKYH1P1\inClass3\perimeterApp\perimeterApp\bin\Debug\perimeterApp.exe
+C:\Users\Yusuf\Documents\GitHub\IC3HJKYH1P1\inClass3\perimeterApp\perimeterApp\bin\Debug\perimeterApp.pdb
+C:\Users\Yusuf\Documents\GitHub\IC3HJKYH1P1\inClass3\perimeterApp\perimeterApp\obj\Debug\perimeterApp.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Documents\GitHub\IC3HJKYH1P1\inClass3\perimeterApp\perimeterApp\obj\Debug\perimeterApp.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Documents\GitHub\IC3HJKYH1P1\inClass3\perimeterApp\perimeterApp\obj\Debug\perimeterApp.exe
+C:\Users\Yusuf\Documents\GitHub\IC3HJKYH1P1\inClass3\perimeterApp\perimeterApp\obj\Debug\perimeterApp.pdb
