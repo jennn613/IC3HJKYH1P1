@@ -1,0 +1,14 @@
+C:\Users\jennn\OneDrive\바탕 화면\conestoga\PROG1781\assignments\inClass3\perimeterApp\perimeterApp\bin\Debug\perimeterApp.exe.config
+C:\Users\jennn\OneDrive\바탕 화면\conestoga\PROG1781\assignments\inClass3\perimeterApp\perimeterApp\bin\Debug\perimeterApp.exe
+C:\Users\jennn\OneDrive\바탕 화면\conestoga\PROG1781\assignments\inClass3\perimeterApp\perimeterApp\bin\Debug\perimeterApp.pdb
+C:\Users\jennn\OneDrive\바탕 화면\conestoga\PROG1781\assignments\inClass3\perimeterApp\perimeterApp\obj\Debug\perimeterApp.csproj.AssemblyReference.cache
+C:\Users\jennn\OneDrive\바탕 화면\conestoga\PROG1781\assignments\inClass3\perimeterApp\perimeterApp\obj\Debug\perimeterApp.csproj.CoreCompileInputs.cache
+C:\Users\jennn\OneDrive\바탕 화면\conestoga\PROG1781\assignments\inClass3\perimeterApp\perimeterApp\obj\Debug\perimeterApp.exe
+C:\Users\jennn\OneDrive\바탕 화면\conestoga\PROG1781\assignments\inClass3\perimeterApp\perimeterApp\obj\Debug\perimeterApp.pdb
+C:\Users\jennn\OneDrive\바탕 화면\inClass3\perimeterApp\perimeterApp\bin\Debug\perimeterApp.exe.config
+C:\Users\jennn\OneDrive\바탕 화면\inClass3\perimeterApp\perimeterApp\bin\Debug\perimeterApp.exe
+C:\Users\jennn\OneDrive\바탕 화면\inClass3\perimeterApp\perimeterApp\bin\Debug\perimeterApp.pdb
+C:\Users\jennn\OneDrive\바탕 화면\inClass3\perimeterApp\perimeterApp\obj\Debug\perimeterApp.csproj.AssemblyReference.cache
+C:\Users\jennn\OneDrive\바탕 화면\inClass3\perimeterApp\perimeterApp\obj\Debug\perimeterApp.csproj.CoreCompileInputs.cache
+C:\Users\jennn\OneDrive\바탕 화면\inClass3\perimeterApp\perimeterApp\obj\Debug\perimeterApp.exe
+C:\Users\jennn\OneDrive\바탕 화면\inClass3\perimeterApp\perimeterApp\obj\Debug\perimeterApp.pdb
