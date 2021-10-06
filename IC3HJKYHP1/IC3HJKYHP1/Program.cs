@@ -23,8 +23,11 @@ namespace inClass3
     {
         static void Main(string[] args)
         {
+
+            int num;
+
             Console.WriteLine("Enter a number for a shape. Enter 1 for a square, 2 for a rectangle, and 3 for a triangle: ");
-            int num = Convert.ToInt32(Console.ReadLine());
+            num = Convert.ToInt32(Console.ReadLine());
 
             if (num == 1)
             {
